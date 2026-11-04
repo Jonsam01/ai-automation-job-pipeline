@@ -1,0 +1,58 @@
+{
+  "_comment": "Personal application profile template for AI automation, workflow engineering, integrations, and AI agent roles. Replace EDIT ME values with verified personal information before applying.",
+  "profile": [
+    {
+      "label": "Full name",
+      "value": "EDIT ME - your full name"
+    },
+    {
+      "label": "Email",
+      "value": "EDIT ME - your professional email"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "EDIT ME - your LinkedIn URL"
+    },
+    {
+      "label": "GitHub",
+      "value": "EDIT ME - your GitHub URL"
+    },
+    {
+      "label": "Portfolio",
+      "value": "EDIT ME - your portfolio URL"
+    }
+  ],
+  "answers": [
+    {
+      "label": "Location and remote-work preferences",
+      "value": "EDIT ME - your location and preferred work arrangements"
+    },
+    {
+      "label": "Work authorization",
+      "value": "EDIT ME - your actual work authorization"
+    },
+    {
+      "label": "Availability",
+      "value": "EDIT ME - your availability and start date"
+    },
+    {
+      "label": "Salary expectation",
+      "value": "EDIT ME - your salary expectations and currency"
+    },
+    {
+      "label": "Relevant experience",
+      "value": "EDIT ME - summarize your verified AI automation projects and relevant experience"
+    },
+    {
+      "label": "Why are you a good fit?",
+      "value": "EDIT ME - explain your relevant automation, API integration, workflow engineering, and AI application experience"
+    },
+    {
+      "label": "Employment preference",
+      "value": "EDIT ME - full-time, contract, internship, or freelance preferences"
+    }
+  ],
+  "summaries": {
+    "ai_automation": "EDIT ME - concise professional summary tailored to AI automation, n8n workflows, API integrations, LLM applications, and reliable business process automation. Include only skills and experience supported by your CV."
+  }
+}

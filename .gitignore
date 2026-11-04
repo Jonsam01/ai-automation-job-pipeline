@@ -1,0 +1,32 @@
+﻿# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build output
+.next/
+out/
+.vercel/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.local.example
+
+# Credentials
+credentials/
+
+# Personal CVs and documents
+resumes/
+
+# Logs and archives
+logs/
+*.log
+*.tgz
+
+# Personal notes and operating system files
+znotes.md
+.DS_Store
+Thumbs.db
+
+# Additional credentials directory
+credential/
